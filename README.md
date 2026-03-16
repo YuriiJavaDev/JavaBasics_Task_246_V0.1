@@ -32,7 +32,7 @@ Project Structure:
     ├── src/
     │   └── com/yurii/pavlenko/
     │                  ├── Person.java   (Model with Smart Setters)
-    │                  └── Solution.java (Entry Point & Testing)
+    │                  └── SolutionApp.java (Entry Point & Testing)
     └── README.md
 
 Code
